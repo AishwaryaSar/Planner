@@ -17,8 +17,8 @@ The page will reload when you make changes.
 
 ### `node index`
 
-Download the code for the backend from 
-Provided that a localhost database has been established in MongoDB Compass, this command starts the server, with 3030 as the listening port.  
+Download the code for the backend from [Planner-backend repo](https://github.com/AishwaryaSar/Planner-backend) \
+Provided that a localhost database has been established in MongoDB Compass, node index command starts the server, with 3030 as the listening port.  
 
 ### Sample Output 
 
