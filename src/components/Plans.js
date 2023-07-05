@@ -64,7 +64,7 @@ const Plans = ({title, completed, remove, editListen}) =>{
                             <i className="black remove icon"></i></button>
                     </div>
                 </>
-        };
+        }
         </div>
     );
 };

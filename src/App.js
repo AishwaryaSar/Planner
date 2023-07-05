@@ -24,7 +24,7 @@ const App = () =>{
     setPlannerList((oldList)=>oldList.filter((item)=>item._id!==id))
   }
   const editPlanListen = async (id,item)=>{
-    await axios.put("http://localhost:3030/planners/"+id,item);
+    await axios.put("http://localhost:3030/planners/"+id,item)
   }
   const [plannerList,setPlannerList] = useState([]);
   return (<div className="ui container center aligned">
